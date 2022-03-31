@@ -1,0 +1,21 @@
+{
+    "name": "flower-shop-fake-api",
+    "version": "1.0.0",
+    "description": "Flower Shop API",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "db": "json-server --watch db.json",
+        "dev": "nodemon main.js",
+        "start": "node main.js"
+    },
+    "author": "Danny",
+    "license": "MIT",
+    "dependencies": {
+        "json-server": "^0.17.0",
+        "query-string": "^7.1.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.15"
+    }
+}

@@ -1,0 +1,297 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "Hoa 14/2",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 2,
+            "title": "Hoa 08/03",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 3,
+            "title": "Hoa 20/11",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 4,
+            "title": "Hoa khai trương",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 5,
+            "title": "Hoa sinh nhật",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 6,
+            "title": "Hoa trái tim",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 7,
+            "title": "Hoa tặng sếp",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 8,
+            "title": "Hoa chia buồn",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Hoa hồng",
+            "categoryId": 2,
+            "price": 20000,
+            "salePrice": 15000,
+            "amount": 10,
+            "description": "Hồng hay hường là tên gọi chung cho các loài thực vật có hoa dạng cây bụi hoặc cây leo lâu năm thuộc chi Rosa, họ Rosaceae, với hơn 100 loài với màu hoa đa dạng, phân bố từ miền ôn đới đến nhiệt đới. Các loài này nổi tiếng vì hoa đẹp nên thường gọi là hoa hồng",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 2,
+            "title": "Hoa lan",
+            "categoryId": 1,
+            "price": 55000,
+            "salePrice": 0,
+            "amount": 10,
+            "description": "Họ Lan là một họ thực vật có hoa, thuộc bộ Măng tây, lớp thực vật một lá mầm. Đây là một trong những họ lớn nhất của thực vật, và chúng phân bổ nhiều nơi trên thế giới. Vườn thực vật hoàng gia Kew liệt kê 880 chi và gần 22.000 loài được chấp nhận, nhưng số lượng chính xác vẫn không rõ do các tranh chấp phân loại học.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 3,
+            "title": "Hoa cẩm tú cầu",
+            "categoryId": 3,
+            "price": 25000,
+            "salePrice": 0,
+            "amount": 10,
+            "description": "Chi Tú cầu là một chi thực vật có hoa trong họ Tú cầu thực vật ôn đới ấm loài cây bản địa Đông Á, vùng núi cao ở độ cao từ 1000m Nam Á, Đông Nam Á và châu Mỹ. Chúng là loài cây thân mộc, hoa vô tính.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 4,
+            "title": "Hoa anh đào",
+            "categoryId": 1,
+            "price": 119000,
+            "salePrice": 89000,
+            "amount": 10,
+            "description": "Hoa anh đào là hoa của các loài thực vật thuộc phân chi anh đào, chi Mận mơ, họ Hoa hồng; đặc biệt là của loài Prunus serrulata và một số loài khác chuyên để làm cảnh. Còn anh đào lấy quả hầu hết là các giống thuộc hay lai với các loài Prunus avium, Prunus cerasus.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 5,
+            "title": "Hoa tulip",
+            "categoryId": 2,
+            "price": 79000,
+            "salePrice": 59000,
+            "amount": 10,
+            "description": "Hoa tu-líp, còn được viết là tulip theo tiếng Anh, còn có tên gọi khác là uất kim hương, uất kim cương, là một chi thực vật có hoa trong họ Liliaceae.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 6,
+            "title": "Hoa bỉ ngạn",
+            "categoryId": 1,
+            "price": 250000,
+            "salePrice": 0,
+            "amount": 10,
+            "description": "Tỏi trời tỏa hoặc bỉ ngạn, thạch toán là một loài thực vật có hoa trong họ Amaryllidaceae.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 7,
+            "title": "Hoa mẫu đơn",
+            "categoryId": 3,
+            "price": 109000,
+            "salePrice": 79000,
+            "amount": 10,
+            "description": "Chi Mẫu đơn là chi duy nhất trong họ Mẫu đơn. Các loài trong chi này có nguồn gốc ở châu Á, miền nam châu Âu và miền tây Bắc Mỹ.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 8,
+            "title": "Hoa tử đằng",
+            "categoryId": 1,
+            "price": 50000,
+            "salePrice": 0,
+            "amount": 10,
+            "description": "Tử đằng là một loài thực vật có hoa trong họ Đậu. Đây là một loài dây leo thân gỗ, rụng lá, lâu năm bản địa của Trung Quốc ở các tỉnh Quảng Tây, Quý Châu, Hà Bắc, Hà Nam, Hồ Bắc, Sơn Tây, và Vân Nam. Mặc dù là loài cây dây leo nhưng cây có thể hình thành dạng giống như cây có thân uốn cong.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 9,
+            "title": "Hoa tigon",
+            "categoryId": 2,
+            "price": 27000,
+            "salePrice": 0,
+            "amount": 10,
+            "description": "Hoa Ti gôn còn được gọi là hoa Hiếu Nữ,  hoa trái tim, hoa tim vỡ, hoa hiếu nữ,... thuộc họ Nho và mọc theo dạng dây leo, có thể dài đến 8m. Hoa có nguồn gốc từ Mexico, một đất nước Trung Mỹ. Hoa Ti gôn thường có màu trắng, hồng hoặc đỏ và thường mọc thành chùm rất đẹp. Lá của hoa Ti gôn mọc đơn lẻ, hình tim, bề mặt phiến lá không có lông và hơi nhăn.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 10,
+            "title": "Hoa thiên điểu",
+            "categoryId": 3,
+            "price": 33000,
+            "salePrice": 0,
+            "amount": 10,
+            "description": "Thiên điểu hay hoa chim thiên đường là một loại cây thân thảo sống nhiều năm, thuộc chi Thiên điểu họ Chuối rẻ quạt. Cây này có nguồn gốc từ các nước miền nam châu Phi và châu Mỹ nhiệt đới. Tên khoa học của nó là để tưởng nhớ tới Charlotte của Mecklenburg-Strelitz, hoàng hậu của vua George III của Anh.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 11,
+            "title": "Hoa thược dược",
+            "categoryId": 2,
+            "price": 89000,
+            "salePrice": 0,
+            "amount": 10,
+            "description": "Thược dược là tên gọi của một chi cây lâu năm thân củ rậm rạp, nở hoa về mùa hè và mùa thu, có nguồn gốc ở México và tại đây chúng là quốc hoa. Năm 1872 một hộp cây thược dược non đã được gửi từ México tới Hà Lan.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 12,
+            "title": "Hoa linh lan",
+            "categoryId": 3,
+            "price": 119000,
+            "salePrice": 79000,
+            "amount": 10,
+            "description": "Linh lan hay lan chuông, là loài duy nhất trong chi Convallaria thuộc một họ thực vật có hoa là họ Asparagaceae. Nó có nguồn gốc trong khu vực ôn đới mát của Bắc bán cầu tại châu Á, châu Âu và Bắc Mỹ.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 13,
+            "title": "Hoa Jade Vine",
+            "categoryId": 1,
+            "price": 129000,
+            "salePrice": 99000,
+            "amount": 10,
+            "description": "Hoa móng vuốt ngọc xanh còn được gọi là hoa móng cọp xanh. Tên tiếng Pháp là Jade Vine, tên khoa học là Strongylodon macrobotrys, một loài hoa có màu sắc lạ kỳ tuyệt đẹp",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 14,
+            "title": "Hoa mai",
+            "categoryId": 2,
+            "price": 65000,
+            "salePrice": 0,
+            "amount": 10,
+            "description": "hoa mai là Apricot Flowers và có tên khoa học là Ochna integerrima. Ngoài ra, cây mai còn có tên khác là cây hoàng mai. Cây thuộc họ Mai (Ochnaceae) và rất được yêu thích vào ngày Tết Nguyên Đán ở Việt Nam, đặc biệt là ở miền Nam.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 15,
+            "title": "Hoa hướng dương",
+            "categoryId": 1,
+            "price": 89000,
+            "salePrice": 0,
+            "amount": 10,
+            "description": "Hoa hướng dương tượng trưng cho sự đáng yêu, trung thành và trường thọ. Phần lớn ý nghĩa của hoa hướng dương bắt nguồn từ chính cái tên của nó, chính là mặt trời - một biểu tượng mãnh liệt của sự sống. ... Ngoài ra, Hoa hướng dương được biết đến là loài hoa hạnh phúc đối với người Do Thái, làm cho chúng trở thành món quà hoàn hảo để mang lại niềm vui cho ngày đặc biệt của ai đó hoặc của chính bạn..",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 16,
+            "title": "Hoa cúc",
+            "categoryId": 3,
+            "price": 29000,
+            "salePrice": 0,
+            "amount": 10,
+            "description": "Họ Cúc, còn gọi là họ Hướng dương, họ Cúc tây, là một họ thực vật có hoa hai lá mầm. Tên gọi khoa học của họ này có từ chi Aster và có từ nguyên từ gốc tiếng Hy Lạp mang nghĩa ngôi sao-hình dáng của bông hoa trong các loài của nó, được điển hình hóa thành tên gọi phổ biến chung là hoa cúc",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 17,
+            "title": "Hoa đồng tiền",
+            "categoryId": 2,
+            "price": 49000,
+            "salePrice": 0,
+            "amount": 10,
+            "description": "Đồng tiền hay cúc đồng tiền là một chi của một số loài cây cảnh trong họ Cúc. Tên gọi Gerbera được đặt theo tên nhà tự nhiên học người Đức Traugott Gerber, một người bạn của Carolus Linnaeus. Chi này có khoảng 30-100 loài sống hoang dã, phân bổ ở Nam Mỹ, châu Phi đại lục, Madagascar và vùng nhiệt đới châu Á.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 18,
+            "title": "Hoa sen",
+            "categoryId": 2,
+            "price": 109000,
+            "salePrice": 89000,
+            "amount": 10,
+            "description": "Hoa sen là thứ hoa nhất hạng, nở ở những vùng nước tù đọng và bẩn đục, bông sen toàn mỹ một cách tột bậc, là sự sống xuất hiện đúng lần đầu tiên trên khoảng mênh mông không rõ sắc màu của những vùng nước khởi nguyên. Trong tranh hình Ai Cập nó đã xuất hiện với ý nghĩa như vậy, trước tất cả, sau đó tạo hóa và vầng thái dương mới lóe ra từ trái tim rộng mở của nó.",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 19,
+            "title": "Hoa triệu chuông",
+            "categoryId": 3,
+            "price": 59000,
+            "salePrice": 0,
+            "amount": 10,
+            "description": "Cây hoa triệu chuông luôn mang đến không gian tuyệt vời và đẹp nhất, với mang đến tinh thần và sức sống, niềm vui tràn đầy cùng mỗi buổi sáng thức dậy ngắm bông hoa triệu chuông xinh đẹp, mang đến cho tinh thần thoải mái hơn, trong lúc làm việc căng thẳng thì cây hoa triệu chuông mang đến cho bạn thêm năng lượng mới, thư giản, giải tỏa căng thẳng mới tốt hơn dành cho mọi không gian xung quanh. Bông hoa triệu chuông mang đến sự trong sáng, hoa có thể là món quà tăng mang ý nghĩa sự hạnh phúc, may mắn tới người được nhận",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        },
+        {
+            "id": 20,
+            "title": "Hoa sao nhái",
+            "categoryId": 1,
+            "price": 69000,
+            "salePrice": 47000,
+            "amount": 10,
+            "description": "Cây hoa sao nhái không chỉ được biết đến là một loài hoa đẹp mà nó còn có những công dụng khác nhau. Thực tế, với vẻ đẹp rực rỡ của loài hoa này thì nó thường được trồng chủ yếu ở trong sân vườn, ban công, sân thượng… để tăng thêm vẻ đẹp cũng như thêm màu sắc tươi mới cho không gian sống của chúng ta. Không chỉ trong nhà mà cây hoa sao nhái còn được trồng nhiều trong các khu vui chơi, công viên, các lối đi của chung cư….",
+            "imageUrl": "",
+            "createdAt": 1648604543,
+            "updatedAt": 1648604543
+        }
+    ],
+    "profile": {
+        "name": "Danny Cute"
+    }
+}
